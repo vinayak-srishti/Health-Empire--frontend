@@ -1,0 +1,35 @@
+.mb-0{
+    color:blue;
+}
+.ft{
+    background-color:black;
+    color:white
+}
+.row{
+    margin-left: 100px;
+    
+}
+.input-group{
+    margin-left: 100px;
+    border-radius: 0;
+}
+#bb3{
+    height:70px;
+    width:500px;
+    margin-left: 100px;
+}
+#bb2{
+    width:70px;
+    border-radius: 0;
+    
+}
+#bb1{
+    width:75px;
+    border-radius:0;
+    margin-right: 20px;
+}
+
+
+
+
+
